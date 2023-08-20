@@ -1,0 +1,22 @@
+{
+    "propiedades": [
+        {
+            "tipo": "Carro",
+            "clasificacion": "4X4",
+            "descripcion": "Lavado VIP",
+            "imagen": "https://github.com/iguzmansa/lavado/blob/main/imglavacar/c1.jpg"
+        
+        },
+        {
+            "tipo": "Aros",
+            "clasificacion": "Lavado",
+            "descripcion": "Pulido del Aro",
+            "imagen": "https://github.com/iguzmansa/lavado/blob/main/imglavacar/c2.jpg"
+        
+            
+        }
+       
+
+
+   ]
+}
